@@ -7,18 +7,18 @@
 
 **Today's Progress**:
 So the plan is learning in order :
-    * Sass.
-    * Third party APIs.
-    * how these work : HTTPS + DNS + Hosting.
-    * ES6 features + promises + asynchronous code.
-    * Git.
-    * Ajax.
-    * Yarn.
-    * Webpack.
-    * A javascript framework : probably React.
-    * Node.js.
-    * PHP.
-    * Other Back-end stuff (Databases, ....)
+* Sass.
+* Third party APIs.
+* how these work : HTTPS + DNS + Hosting.
+* ES6 features + promises + asynchronous code.
+* Git.
+* Ajax.
+* Yarn.
+* Webpack.
+* A javascript framework : probably React.
+* Node.js.
+* PHP.
+* Other Back-end stuff (Databases, ....)
 
 
 **Thoughts:**
