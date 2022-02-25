@@ -21,35 +21,21 @@ So the plan is learning in order :
 * Other Back-end stuff (Databases, ....)
 
 
-**Thoughts:**
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: February 25, Friday
+##### Objective : Learning what API means
 
+**Today's Progress**:
+* understood flexbox better and completed the layout for frontend advice card project.
+* Learnt new notions : API, GUI, HTTP(s), REST, CRUD and JSON format.
 
-
-### Day 1: June 27, Monday
-##### Objective :
-
-**Today's Progress**: 
-
-**Thoughts**
+**Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [FreeCodeCamp's awesome course on APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
+2.
 
 
-
-### Day 1: June 27, Monday
-##### Objective :
-
-**Today's Progress**: 
-
-**Thoughts**
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
 
 
