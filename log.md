@@ -44,13 +44,14 @@ So the plan is learning in order :
 * Learnt how to use fetch in javascript.
 * Had a problem with API's caching time (2 seconds).
 * Solved by accessing the advice itself (by adding a random number to URL) without waiting for cache to restart.
-* Learnt new notions : Asynchronous programming, async/await, 
+* Learnt how to execute code in Node.js.
+* Learnt some ES6 features.
 
 **Thoughts** Working with API is really awesome. So many fun stuff to do with them.
 
 **Link(s) to work**
 1. [My solution to advice card challenge](https://www.frontendmentor.io/solutions/advice-card-with-css-flexbox-and-javascript-fetch-api-2SiwxeGB-)
-2.
+2. [Programming with mosh video on Node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 
 
 
