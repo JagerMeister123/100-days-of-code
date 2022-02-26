@@ -33,6 +33,23 @@ So the plan is learning in order :
 
 **Link(s) to work**
 1. [FreeCodeCamp's awesome course on APIs for Beginners](https://www.youtube.com/watch?v=GZvSYJDk-us)
+2. [Web dev simplified's video on flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE&t)
+
+
+
+### Day 2: February 26, Saturday
+##### Objective : Completing FrontEnd mentor advice card challenge
+
+**Today's Progress**:
+* Learnt how to use fetch in javascript.
+* Had a problem with API's caching time (2 seconds).
+* Solved by accessing the advice itself (by adding a random number to URL) without waiting for cache to restart.
+* Learnt new notions : Asynchronous programming, async/await, 
+
+**Thoughts** Working with API is really awesome. So many fun stuff to do with them.
+
+**Link(s) to work**
+1. [My solution to advice card challenge](https://www.frontendmentor.io/solutions/advice-card-with-css-flexbox-and-javascript-fetch-api-2SiwxeGB-)
 2.
 
 
