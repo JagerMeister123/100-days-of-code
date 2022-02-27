@@ -56,5 +56,22 @@ So the plan is learning in order :
 
 
 
+### Day 3: February 27, Sunday
+##### Objective : Learning NodeJS part1
+
+**Today's Progress**:
+* Learnt how to use multiple .js files.
+* How to export and import functions from modules
+* New notions : module, module wrapper function, Object.keys(object).
+
+**Thoughts** NodeJS is just really useful. Can't wait to see all of what it can do.
+
+**Link(s) to work**
+1. [Programming with mosh video on Node.js](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+
+
+
+
+
 
 
